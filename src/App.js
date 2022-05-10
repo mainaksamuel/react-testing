@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <AppHeader />
       <NameInput />
-      {/* <CountContainer /> */}
+      <CountContainer />
     </div>
   );
 }
